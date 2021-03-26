@@ -65,4 +65,4 @@ const country = {
 
 const {gender: {male: [maleUnder18, maleAdult], female: [femUnder18, femAdult]}} = country;
 
-console.log();
+console.log(maleUnder18,femAdult);
